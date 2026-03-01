@@ -1,0 +1,142 @@
+[
+  {
+    "postId": 1,
+    "userId": 1,
+    "title": "Красивый закат сегодня",
+    "body": "Смотрите, какой цвет неба...",
+    "avatarUrl": "https://i.pravatar.cc/150?img=1"
+  },
+  {
+    "postId": 2,
+    "userId": 2,
+    "title": "Новый кофе-мастер-класс",
+    "body": "Приходите все!",
+    "avatarUrl": "https://i.pravatar.cc/150?img=2"
+  },
+  {
+    "postId": 3,
+    "userId": 3,
+    "title": "Как приучить кота к воде",
+    "body": "Делимся опытом в комментариях",
+    "avatarUrl": "https://i.pravatar.cc/150?img=3"
+  },
+  {
+    "postId": 4,
+    "userId": 4,
+    "title": "Лайфхак: быстрая уборка",
+    "body": "Всего 15 минут и квартира сияет",
+    "avatarUrl": "https://i.pravatar.cc/150?img=4"
+  },
+  {
+    "postId": 5,
+    "userId": 5,
+    "title": "Мой отпуск в горах",
+    "body": "Фото с перевала Домбай",
+    "avatarUrl": "https://i.pravatar.cc/150?img=5"
+  },
+  {
+    "postId": 6,
+    "userId": 6,
+    "title": "Новинки кино этой недели",
+    "body": "Стоит ли идти на новый блокбастер?",
+    "avatarUrl": "https://i.pravatar.cc/150?img=6"
+  },
+  {
+    "postId": 7,
+    "userId": 7,
+    "title": "Веганский ужин за 20 минут",
+    "body": "Рецепт пасты с овощами",
+    "avatarUrl": "https://i.pravatar.cc/150?img=7"
+  },
+  {
+    "postId": 8,
+    "userId": 8,
+    "title": "Пробежка в парке",
+    "body": "Новый личный рекорд - 5 км",
+    "avatarUrl": "https://i.pravatar.cc/150?img=8"
+  },
+  {
+    "postId": 9,
+    "userId": 9,
+    "title": "Сломался ноутбук",
+    "body": "Кто может посоветовать сервис?",
+    "avatarUrl": "https://i.pravatar.cc/150?img=9"
+  },
+  {
+    "postId": 10,
+    "userId": 10,
+    "title": "Моя новая картина",
+    "body": "Закончил писать маслом",
+    "avatarUrl": "https://i.pravatar.cc/150?img=10"
+  },
+  {
+    "postId": 11,
+    "userId": 11,
+    "title": "Вопрос про переезд",
+    "body": "Как найти квартиру в центре?",
+    "avatarUrl": "https://i.pravatar.cc/150?img=11"
+  },
+  {
+    "postId": 12,
+    "userId": 12,
+    "title": "Сегодняшний обед",
+    "body": "Бургер с трюфельным соусом",
+    "avatarUrl": "https://i.pravatar.cc/150?img=12"
+  },
+  {
+    "postId": 13,
+    "userId": 13,
+    "title": "Ищу команду для стартапа",
+    "body": "Нужен разработчик и дизайнер",
+    "avatarUrl": "https://i.pravatar.cc/150?img=13"
+  },
+  {
+    "postId": 14,
+    "userId": 14,
+    "title": "Мои новые кроссовки",
+    "body": "Очень удобные, спасибо магазину",
+    "avatarUrl": "https://i.pravatar.cc/150?img=14"
+  },
+  {
+    "postId": 15,
+    "userId": 15,
+    "title": "Музыкальный вечер",
+    "body": "Играем джаз во дворе",
+    "avatarUrl": "https://i.pravatar.cc/150?img=15"
+  },
+  {
+    "postId": 16,
+    "userId": 16,
+    "title": "Книга, которая меня изменила",
+    "body": "Маленький принц, 100-й раз",
+    "avatarUrl": "https://i.pravatar.cc/150?img=16"
+  },
+  {
+    "postId": 17,
+    "userId": 17,
+    "title": "Ремонт своими руками",
+    "body": "Покрасили стены в спальне",
+    "avatarUrl": "https://i.pravatar.cc/150?img=17"
+  },
+  {
+    "postId": 18,
+    "userId": 18,
+    "title": "Наш питомец",
+    "body": "Хомяк сбежал, ищем всем районом",
+    "avatarUrl": "https://i.pravatar.cc/150?img=18"
+  },
+  {
+    "postId": 19,
+    "userId": 19,
+    "title": "Задания на выходные",
+    "body": "Составляю список дел",
+    "avatarUrl": "https://i.pravatar.cc/150?img=19"
+  },
+  {
+    "postId": 20,
+    "userId": 20,
+    "title": "Спасибо за подписку",
+    "body": "Всем привет с другого берега",
+    "avatarUrl": "https://i.pravatar.cc/150?img=20"
+  }
+]
