@@ -89,17 +89,19 @@ class MainActivity : ComponentActivity() {
 fun MainScreen (modifier: Modifier = Modifier, context: Context)
 {
 
-    Column(modifier = Modifier.fillMaxSize()) {
-        Button(onClick = {
-            ContextCompat.startForegroundService(context ,Intent(context, MyService::class.java))
-        }) {
-            Text("Запустить таймер")
-        }
-        Button(onClick =
-            {
-                context.stopService(Intent(context, MyService::class.java))
-            }) {
-            Text("Остановить таймер")
+    var time by remember { mutableStateOf("") }
+
+    Box(modifier = modifier.systemBarsPadding().fillMaxSize())
+    {
+        Column(modifier.align(Alignment.Center) ) {
+            TextField(value = time, onValueChange = { time = it})
+            Button(
+                modifier = Modifier.align(Alignment.CenterHorizontally),
+                onClick = {
+                    context.startService(Intent(context, MyService::class.java).putExtra("time",time.toInt()))
+                }) {
+                Text(text = "Ожидать")
+            }
         }
     }
 }
