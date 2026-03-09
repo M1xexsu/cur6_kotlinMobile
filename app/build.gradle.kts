@@ -49,6 +49,9 @@ dependencies {
     implementation(libs.androidx.compose.ui.tooling.preview)
     implementation(libs.androidx.compose.material3)
     
+    // ViewModel Compose support
+    implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1")
+    
     implementation("com.google.android.gms:play-services-location:21.0.1")
     
     testImplementation(libs.junit)
